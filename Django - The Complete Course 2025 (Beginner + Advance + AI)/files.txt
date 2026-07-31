@@ -1,0 +1,191 @@
+01. Introduction
+	(1280, 720) | 01. Introduction.mp4
+	(1280, 720) | 02. Django - What & Why.mp4
+	(1280, 720) | 04. Watch Before You Start.mp4
+02. Installing Django & Course Setup
+	(1280, 720) | 02. Installing Python.mp4
+	(1280, 720) | 03. Installing Django & Vscode.mp4
+	(1280, 720) | 04. Creating Our First Django Project & Analyzing It.mp4
+	(1280, 720) | 05. Running Server.mp4
+	(1280, 720) | 06. Django Apps - What & Why.mp4
+	(1280, 720) | 07. Creating Our First App & Analyzing It.mp4
+03. URLs & Views
+	(1280, 720) | 01. What Are URLs & Views.mp4
+	(1280, 720) | 02. Creating Our First URL & View.mp4
+	(1280, 720) | 03. How Everything Is Working Internally & Reason Behind URLs File Inside App.mp4
+	(1280, 720) | 04. Returning HTML As Response.mp4
+	(1280, 720) | 05. Dynamic URLs.mp4
+	(1280, 720) | 06. Creating Our First Dynamic URL & Understanding Path Converters.mp4
+	(1280, 720) | 07. Implementing Logic For Showing Single Post.mp4
+	(1280, 720) | 08. Exploring HttpResponse Subclasses.mp4
+	(1280, 720) | 09. Redirecting User.mp4
+	(1280, 720) | 10. Reverse Function & Named URLs.mp4
+04. Templates, Context Processors & Static Files
+	(1280, 720) | 01. Module Introduction.mp4
+	(1280, 720) | 03. Adding & Rendering Templates.mp4
+	(1280, 720) | 04. Understanding Template Settings & Templates Namespacing.mp4
+	(1280, 720) | 05. Django Template Language & Passing Context.mp4
+	(1280, 720) | 06. What Are Tags & For Tag.mp4
+	(1280, 720) | 07. If Else Tag.mp4
+	(1280, 720) | 08. For Empty Tag & For Loop Variables.mp4
+	(1280, 720) | 09. Filters In Django Template Language.mp4
+	(1280, 720) | 10. Showing Single Post.mp4
+	(1280, 720) | 11. URL Tag.mp4
+	(1280, 720) | 12. Understanding DIRS Settings.mp4
+	(1280, 720) | 13. Template Inheritance.mp4
+	(1280, 720) | 14. Working With Static Files.mp4
+	(1280, 720) | 15. Global Static Files.mp4
+	(1280, 720) | 16. Adding Templates & Styling To Our Project.mp4
+	(1280, 720) | 17. Includes In Django Template Language.mp4
+	(1280, 720) | 18. Custom 404 Page & Raising Http404.mp4
+	(1280, 720) | 19. Context Processors.mp4
+05. Databases, ORM & Models
+	(1280, 720) | 01. Databases Quick Primer.mp4
+	(1280, 720) | 02. Understanding ORM & Django ORM.mp4
+	(1280, 720) | 03. Understanding Models.mp4
+	(1280, 720) | 04. Creating Our First Model.mp4
+	(1280, 720) | 06. Migrations.mp4
+	(1280, 720) | 07. Showmigrations Command & Re-Migrations.mp4
+	(1280, 720) | 08. Save( ) & Create( ) Method.mp4
+	(1280, 720) | 09. Connection.queries & Watching SQL Generated Behind The Scenes.mp4
+	(1280, 720) | 10. All() Method & Deep Diving Into QuerySets.mp4
+	(1280, 720) | 11. Understanding Get, Filter & Exclude QuerySet API Methods.mp4
+	(1280, 720) | 12. Exploring More QuerySet API Methods.mp4
+	(1280, 720) | 13. Querying Using AND OR Operators.mp4
+	(1280, 720) | 14. Q Object.mp4
+	(1280, 720) | 15. Limiting QuerySets.mp4
+	(1280, 720) | 16. Field Lookups.mp4
+	(1280, 720) | 17. QuerySets Are Lazy.mp4
+	(1280, 720) | 18. Updating Single Row & Multiple Rows.mp4
+	(1280, 720) | 19. Deleting Single Row & Multiple Rows.mp4
+	(1280, 720) | 20. Fetching & Rendering Data In Templates.mp4
+	(1280, 720) | 21. Fetching Post From Database & Rendering It Inside Template.mp4
+	(1280, 720) | 22. get_object_or_404.mp4
+	(1280, 720) | 23. Understanding and Deep Diving Into Aggregation.mp4
+06. Admin & ModelAdmin
+	(1280, 720) | 01. Module Introduction.mp4
+	(1280, 720) | 02. Creating Super User & Accessing Admin Panel.mp4
+	(1280, 720) | 03. Registering Model Inside Admin & __str__ Method.mp4
+	(1280, 720) | 04. Exploring Admin Panel.mp4
+	(1280, 720) | 05. ModelAdmin Class & ModelAdmin Options.mp4
+	(1280, 720) | 06. Listfilter & Search Functionality.mp4
+	(1280, 720) | 07. Changing Header Title & Site Title.mp4
+07. Working With Forms & ModelForms
+	(1280, 720) | 01. Module Introduction.mp4
+	(1280, 720) | 02. Understanding Django Forms & Project Setup.mp4
+	(1280, 720) | 03. Creating & Rendering Form.mp4
+	(1280, 720) | 04. Understanding GET & POST Method.mp4
+	(1280, 720) | 05. Understanding CSRF Attack & CSRF Tokens.mp4
+	(1280, 720) | 06. Handling Form Submission.mp4
+	(1280, 720) | 07. Understanding How Form Submission Works Step by Step.mp4
+	(1280, 720) | 08. Exploring More Form Fields.mp4
+	(1280, 720) | 09. Core Field Arguments.mp4
+	(1280, 720) | 10. Output Styles.mp4
+	(1280, 720) | 11. Rendering Form Fields Manually.mp4
+	(1280, 720) | 12. Looping Through Form Fields.mp4
+	(1280, 720) | 13. Widgets In Django Forms.mp4
+	(1280, 720) | 14. Styling Django Form Custom CSS Classes and IDs on Form Fields.mp4
+	(1280, 720) | 15. Custom Validation On Complete Form.mp4
+	(1280, 720) | 16. Custom Validation On Single Form Field.mp4
+	(1280, 720) | 17. Styling Form Errors.mp4
+	(1280, 720) | 18. CRUD Using Django Forms API.mp4
+	(1280, 720) | 19. Introduction To ModelForms.mp4
+	(1280, 720) | 20. Creating Our First ModelForm.mp4
+	(1280, 720) | 21. Save( ) Method On ModelForm.mp4
+	(1280, 720) | 22. Custom Labels, Help Texts, Error Messages, and Widgets in Django ModelForms.mp4
+	(1280, 720) | 23. CRUD Using ModelForms.mp4
+	(1280, 720) | 24. Using Clean Method & Custom Validators In ModelForms.mp4
+	(1280, 720) | 25. Fields & Exclude Attribute.mp4
+08. Cookies In Django
+	(1280, 720) | 01. Understanding Cookies & How Cookies Works.mp4
+	(1280, 720) | 02. Working With Cookies In Django.mp4
+	(1280, 720) | 03. Using Cookies With Render Function.mp4
+	(1280, 720) | 04. Cookies Limitations.mp4
+09. Middlewares In Django
+	(1280, 720) | 01. Module Introduction.mp4
+	(1280, 720) | 02. Understanding Middlewares & How They Work.mp4
+	(1280, 720) | 03. Custom Function Based Middleware.mp4
+	(1280, 720) | 04. Custom Class Based Middleware.mp4
+	(1280, 720) | 05. Returning Response From Middleware  & Middleware Ordering.mp4
+	(1280, 720) | 06. Understanding All Middleware Hooks.mp4
+	(1280, 720) | 07. Exploring Built-In Middlewares.mp4
+10. Working With Sessions
+	(1280, 720) | 01. Module Introduction.mp4
+	(1280, 720) | 02. Understanding Sessions & How Sessions Work.mp4
+	(1280, 720) | 03. Working With Sessions.mp4
+	(1280, 720) | 04. Flush Method.mp4
+	(1280, 720) | 05. Exploring Session Methods.mp4
+	(1280, 720) | 06. Session Modified.mp4
+	(1280, 720) | 07. Session Settings.mp4
+11. Authentication & Authorization
+	(1280, 720) | 01. Module Introduction.mp4
+	(1280, 720) | 02. Enabling Authentication & Creating An App.mp4
+	(1280, 720) | 03. How Authentication Works.mp4
+	(1280, 720) | 04. Implementing User Registration.mp4
+	(1280, 720) | 05. Customizing UserCreationForm & Getting More User Data While Registration.mp4
+	(1280, 720) | 06. Understanding & Implementing Login Functionality Step By Step.mp4
+	(1280, 720) | 07. Customizing AuthenticationForm.mp4
+	(1280, 720) | 08. Fixing A Field.mp4
+	(1280, 720) | 09. Limiting Access To Logged-In Users & Anonymous Users.mp4
+	(1280, 720) | 10. Authentication Data In Templates.mp4
+	(1280, 720) | 11. Implementing Logout Functionality Step By Step.mp4
+	(1280, 720) | 12. Using Built-In Authentication Views.mp4
+	(1280, 720) | 13. Customizing Built-In Authentication Views.mp4
+	(1280, 720) | 14. redirect_authenticated_user.mp4
+12. Pagination
+	(1280, 720) | 01. Module Introduction.mp4
+	(1280, 720) | 02. Pagination Logic In Views.mp4
+	(1280, 720) | 03. Pagination Logic In Template.mp4
+	(1280, 720) | 05. Orphans &  allow_empty_first_page arguments.mp4
+13. Relationships In Django
+	(1280, 720) | 01. Module Introduction.mp4
+	(1280, 720) | 02. Exploring & Understanding Different Relationship Types.mp4
+	(1280, 720) | 03. Understanding & Adding One-To-One Relationship.mp4
+	(1280, 720) | 04. on_delete Argument.mp4
+	(1280, 720) | 05. Querying Using Relationships.mp4
+	(1280, 720) | 06. Related Objects Query.mp4
+	(1280, 720) | 07. Adding Many-To-One Field.mp4
+	(1280, 720) | 08. Querying Using Many To One & Related Object Query.mp4
+	(1280, 720) | 09. Understanding & Adding Many-To-Many Relationship.mp4
+	(1280, 720) | 10. Working With Many-To-Many Field.mp4
+	(1280, 720) | 11. Showing Tags On Post Page.mp4
+	(1280, 720) | 12. Adding User Field To Comments & Rendering Comments On Post Page.mp4
+14. Handling File Uploads
+	(1280, 720) | 01. Module Introduction.mp4
+	(1280, 720) | 02. Project Setup.mp4
+	(1280, 720) | 03. Creating Model With FieldField.mp4
+	(1280, 720) | 04. Creating Form & Handling File Upload.mp4
+	(1280, 720) | 05. Using ImageField.mp4
+	(1280, 720) | 06. Serving Files.mp4
+	(1280, 720) | 07. Adding & Serving Post Image In Blog Project.mp4
+15. Adding More Features
+	(1280, 720) | 01. Adding Search Functionality.mp4
+	(1280, 720) | 02. Improving Search Functionality.mp4
+	(1280, 720) | 03. Handling Root URL.mp4
+	(1280, 720) | 04. Not  Showing Pagination If Less Posts.mp4
+16. Deep Diving Into Class Based Views (CBVs)
+	(1280, 720) | 01. Module Introduction.mp4
+	(1280, 720) | 02. Deep Dive Into Class Based Views.mp4
+	(1280, 720) | 03. View Class (Base Views).mp4
+	(1280, 720) | 04. TemplateView (Base Views).mp4
+	(1280, 720) | 05. RedirectView (Base Views).mp4
+	(1280, 720) | 06. ListView (Generic Display Views).mp4
+	(1280, 720) | 07. DetailView (Generic Display Views).mp4
+	(1280, 720) | 08. FormView (Generic Edit Views).mp4
+	(1280, 720) | 09. CreateView (Generic Edit Views).mp4
+	(1280, 720) | 10. UpdateView (Generic Edit Views).mp4
+	(1280, 720) | 11. DeleteView (Generic Edit Views).mp4
+	(1280, 720) | 12. Converting Blog Project Function Based Views Into Class Based Views.mp4
+	(1280, 720) | 13. Converting Blog Project Function Based Views Into Class Based Views Part 2.mp4
+	(1280, 720) | 14. Pagination With Class Based Views.mp4
+17. Using ChatGPT To Boost Your Career & Django Development
+	(1280, 720) | 01. Module Introduction.mp4
+	(1280, 720) | 02. ChatGPT Small Introduction.mp4
+	(1280, 720) | 03. What Is Prompt & Best Prompt Formula.mp4
+	(1280, 720) | 04. Prompts Only For Django Developers.mp4
+	(1280, 720) | 06. Using ChatGPT For Project Setup.mp4
+	(1280, 720) | 07. Using ChatGPT For Generating Views.mp4
+	(1280, 720) | 08. Using ChatGPT For Debugging.mp4
+	(1280, 720) | 09. Using ChatGPT For Models.mp4
+	(1280, 720) | 10. Using ChatGPT For Model Relationships.mp4
+	(1280, 720) | 11. Using ChatGPT For Generating Complex Database Queries.mp4
